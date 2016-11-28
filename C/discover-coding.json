@@ -40,7 +40,7 @@
     "title": "CNN"
   },
   {
-    "cat": "discover_edu_and_health",
+    "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://hourofcode.com/",
     "image": "",
@@ -104,7 +104,7 @@
     "title": "ESPN"
   },
   {
-    "cat": "discover_edu_and_health",
+    "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://www.freecodecamp.com/",
     "image": "",
@@ -112,7 +112,7 @@
     "title": "Free Code Camp"
   },
   {
-    "cat": "discover_edu_and_health",
+    "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://www.codeschool.com/",
     "image": "",
