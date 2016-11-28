@@ -1,0 +1,371 @@
+[
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.about.com/",
+    "image": "img/discover/aboutcom.jpg",
+    "subtitle": "Learn anything from trusted experts",
+    "title": "About.com"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2h",
+    "href": "http://www.bbc.com/news/",
+    "image": "img/discover/bbc.jpg",
+    "subtitle": "Read news from around the world",
+    "title": "BBC"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.bookbox.com/",
+    "image": "img/discover/bookbox.jpg",
+    "subtitle": "English story books for children",
+    "title": "BookBox"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.ck12.org/student/",
+    "image": "img/discover/ck12.jpg",
+    "subtitle": "Textbooks for children ",
+    "title": "CK-12"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://www.cnn.com/",
+    "image": "img/discover/cnn.jpg",
+    "subtitle": "News site",
+    "title": "CNN"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://www.uefa.com/uefachampionsleague/",
+    "image": "img/discover/championsleague.jpg",
+    "subtitle": "Official Website",
+    "title": "Champions League"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://codecombat.com/",
+    "image": "img/discover/codecombat.jpg",
+    "subtitle": "Learn to code while playing",
+    "title": "Code Combat"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://code.org/",
+    "image": "img/discover/codestudio.jpg",
+    "subtitle": "Anybody can learn how to code",
+    "title": "Code Studio"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.codecademy.com/en/",
+    "image": "img/discover/codeacademy.jpg",
+    "subtitle": "Learn to program",
+    "title": "Codecademy"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "https://www.coursera.org/",
+    "image": "img/discover/coursera.jpg",
+    "subtitle": "Take the world's best courses, online, for free",
+    "title": "Coursera"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://discoverykids.com/",
+    "image": "img/discover/discoverykids.jpg",
+    "subtitle": "Educational games and videos",
+    "title": "Discovery Kids"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "https://www.duolingo.com/",
+    "image": "img/discover/duolingo.jpg",
+    "subtitle": "Learn a new language",
+    "title": "Duolingo"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://espn.go.com/",
+    "image": "img/discover/espn.jpg",
+    "subtitle": "Sports news site",
+    "title": "ESPN"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://www.espncricinfo.com/",
+    "image": "img/discover/espncricket.jpg",
+    "subtitle": "Cricket coverage",
+    "title": "ESPN Cricket"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://www.fifa.com/",
+    "image": "img/discover/fifa.jpg",
+    "subtitle": "Football association",
+    "title": "FIFA"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://www.foxsports.com/",
+    "image": "img/discover/foxsports.jpg",
+    "subtitle": "Sports news",
+    "title": "FOX Sports"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://www.facebook.com/",
+    "image": "img/discover/facebook.jpg",
+    "subtitle": "Social Network",
+    "title": "Facebook"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://familydoctor.org/",
+    "image": "img/discover/familydoctor.jpg",
+    "subtitle": "Health information for the whole family",
+    "title": "Family Doctor"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2v",
+    "href": "http://www.forbes.com/",
+    "image": "img/discover/forbes.jpg",
+    "subtitle": "Information for global business leaders",
+    "title": "Forbes"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://mail.google.com/",
+    "image": "img/discover/gmail.jpg",
+    "subtitle": "Email from Google",
+    "title": "Gmail"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.google.com/",
+    "image": "img/discover/google.jpg",
+    "subtitle": "Search the world's information",
+    "title": "Google"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://books.google.com/",
+    "image": "img/discover/googlebooks.jpg",
+    "subtitle": "Preview books from libraries and publishers worldwide",
+    "title": "Google Books"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "https://news.google.com/",
+    "image": "img/discover/googlenews.jpg",
+    "subtitle": "News site",
+    "title": "Google News"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.highlightskids.com/",
+    "image": "img/discover/highlightskids.jpg",
+    "subtitle": "Activities and games for kids",
+    "title": "Highlights for Kids"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.infojobs.com/",
+    "image": "img/discover/infojobs.jpg",
+    "subtitle": "Jobs guide",
+    "title": "Infojobs"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://instagram.com",
+    "image": "img/discover/instagram.jpg",
+    "subtitle": "Capture and share pictures",
+    "title": "Instagram"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.khanacademy.org/",
+    "image": "img/discover/khanacademy.jpg",
+    "subtitle": "Educational videos",
+    "title": "Khan Academy"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.maxgames.com/",
+    "image": "img/discover/maxgames.jpg",
+    "subtitle": "Hundreds of online video games",
+    "title": "Max Games"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://swoop.monster.com/",
+    "image": "img/discover/monster.jpg",
+    "subtitle": "Find a job",
+    "title": "Monster"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://science.nasa.gov",
+    "image": "img/discover/nasascience.jpg",
+    "subtitle": "Discover outer space ",
+    "title": "NASA Science"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.nationalgeographic.com",
+    "image": "img/discover/nationalgeographic.jpg",
+    "subtitle": "Articles, photos & videos about the world",
+    "title": "National Geographic"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2h",
+    "href": "http://www.nytimes.com/",
+    "image": "img/discover/nytimes.jpg",
+    "subtitle": "Read news from around the world",
+    "title": "New York Times"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.people.com/people/",
+    "image": "img/discover/people.jpg",
+    "subtitle": "Celebrity news site",
+    "title": "People"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.pinterest.com/",
+    "image": "img/discover/pinterest.jpg",
+    "subtitle": "Discover ideas for your projects and interests",
+    "title": "Pinterest"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://quizlet.com/",
+    "image": "img/discover/quizlet.jpg",
+    "subtitle": "Adult education",
+    "title": "Quizlet"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.supercook.com/#/recipes/All%2520recipes",
+    "image": "img/discover/supercook.jpg",
+    "subtitle": "Cook new recipes with ingredients you already have",
+    "title": "Super Cook"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.ted.com/",
+    "image": "img/discover/ted.jpg",
+    "subtitle": "Online lectures",
+    "title": "TED"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.tumblr.com/",
+    "image": "img/discover/tumblr.jpg",
+    "subtitle": "Create and follow blogs you love",
+    "title": "Tumblr"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://twitter.com/",
+    "image": "img/discover/twitter.jpg",
+    "subtitle": "Instantly connect to what's most important to you",
+    "title": "Twitter"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://web.whatsapp.com/",
+    "image": "img/discover/whatsapp.jpg",
+    "subtitle": "Chat and text with friends",
+    "title": "WhatsApp"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://en.wikipedia.org/",
+    "image": "img/discover/wikipedia.jpg",
+    "subtitle": "The free encyclopedia",
+    "title": "Wikipedia"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.wiktionary.org/",
+    "image": "img/discover/wiktionary.jpg",
+    "subtitle": "The free dictionary",
+    "title": "Wiktionary"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://www.google.com/culturalinstitute/project/world-wonders",
+    "image": "img/discover/worldwonders.jpg",
+    "subtitle": "Bring to life the wonders of the modern and ancient world",
+    "title": "World Wonders"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://sports.yahoo.com",
+    "image": "img/discover/yahoosports.jpg",
+    "subtitle": "Sports updates",
+    "title": "Yahoo Sports"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.youtube.com/",
+    "image": "img/discover/youtube.jpg",
+    "subtitle": "Video",
+    "title": "YouTube"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://www.ehow.com",
+    "image": "img/discover/ehow.jpg",
+    "subtitle": "Discover the expert in you",
+    "title": "eHow"
+  }
+]
+
