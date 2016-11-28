@@ -40,12 +40,12 @@
     "title": "CNN"
   },
   {
-    "cat": "discover_sports",
+    "cat": "discover_edu_and_health",
     "display_shape": "b2h",
-    "href": "http://www.uefa.com/uefachampionsleague/",
-    "image": "img/discover/championsleague.jpg",
-    "subtitle": "Official Website",
-    "title": "Champions League"
+    "href": "https://hourofcode.com/",
+    "image": "",
+    "subtitle": "An Hour of Code for every student",
+    "title": "Hour of code"
   },
   {
     "cat": "discover_edu_and_health",
@@ -104,20 +104,20 @@
     "title": "ESPN"
   },
   {
-    "cat": "discover_sports",
+    "cat": "discover_edu_and_health",
     "display_shape": "b2h",
-    "href": "http://www.espncricinfo.com/",
-    "image": "img/discover/espncricket.jpg",
-    "subtitle": "Cricket coverage",
-    "title": "ESPN Cricket"
+    "href": "https://www.freecodecamp.com/",
+    "image": "",
+    "subtitle": "Learn to code and help nonprofits",
+    "title": "Free Code Camp"
   },
   {
-    "cat": "discover_sports",
+    "cat": "discover_edu_and_health",
     "display_shape": "b2h",
-    "href": "http://www.fifa.com/",
-    "image": "img/discover/fifa.jpg",
-    "subtitle": "Football association",
-    "title": "FIFA"
+    "href": "https://www.codeschool.com/",
+    "image": "",
+    "subtitle": "Learn by Doing",
+    "title": "Code School"
   },
   {
     "cat": "discover_sports",
