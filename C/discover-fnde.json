@@ -1,0 +1,922 @@
+[
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2h",
+    "href": "http://www.dominiopublico.gov.br/",
+    "image": "img/discover/dominiopublico.jpg",
+    "subtitle": "Biblioteca Digital",
+    "title": "Dom\u00ednio P\u00fablico"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2h",
+    "href": "http://www.fnde.gov.br/",
+    "image": "img/discover/fnde.jpg",
+    "subtitle": "Portal Oficial",
+    "title": "FNDE"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b1",
+    "href": "http://www.capes.gov.br/",
+    "image": "img/discover/fundacaocapes.jpg",
+    "subtitle": "Minist\u00e9rio da Educa\u00e7\u00e3o",
+    "title": "Funda\u00e7\u00e3o Capes"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2v",
+    "href": "http://portal.inep.gov.br/",
+    "image": "img/discover/inep.jpg",
+    "subtitle": "Estudos e Pesquisas",
+    "title": "INEP"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2h",
+    "href": "http://mecflix.mec.gov.br/",
+    "image": "img/discover/mecflix.jpg",
+    "subtitle": "Portal de videos",
+    "title": "MECFLIX"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2v",
+    "href": "http://objetoseducacionais2.mec.gov.br/",
+    "image": "img/discover/objetoseducacionais.jpg",
+    "subtitle": "Base Internacional",
+    "title": "Objetos educacionais"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2v",
+    "href": "http://www.brasil.gov.br/",
+    "image": "img/discover/noticiasdegoverno.jpg",
+    "subtitle": "Portal de Not\u00edcias do Governo",
+    "title": "Portal Brasil"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b1",
+    "href": "http://portal.mec.gov.br/index.php",
+    "image": "img/discover/portaldomec.jpg",
+    "subtitle": "Portal oficial",
+    "title": "Portal do MEC"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b1",
+    "href": "http://portaldoprofessor.mec.gov.br/",
+    "image": "img/discover/portaldoprofessor.jpg",
+    "subtitle": "Site oficial",
+    "title": "Portal do Professor"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b1",
+    "href": "http://tvbrasil.ebc.com.br/",
+    "image": "img/discover/tvbrasil.jpg",
+    "subtitle": "Portal de v\u00eddeos",
+    "title": "TV Brasil"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b1",
+    "href": "http://tvescola.mec.gov.br/",
+    "image": "img/discover/tvescola.jpg",
+    "subtitle": "Portal de videos",
+    "title": "TV Escola"
+  },
+  {
+    "cat": "discover_cover",
+    "display_shape": "b2h",
+    "href": "https://www.youtube.com/user/tvescola",
+    "image": "img/discover/tvescolayoutube.jpg",
+    "subtitle": "Canal de v\u00eddeo",
+    "title": "TV Escola no YouTube"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://www.adorocinema.com/",
+    "image": "img/discover/adorocinema.jpg",
+    "subtitle": "not\u00edcias, trailers e entrevistas",
+    "title": "Adoro Cinema"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://www.asboasnovas.com/",
+    "image": "img/discover/asboasnovas.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "As Boas Novas"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://bandnewstv.band.uol.com.br/",
+    "image": "img/discover/bandnews.jpg",
+    "subtitle": "R\u00e1dio online",
+    "title": "Band News"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://www.cbf.com.br/",
+    "image": "img/discover/cbf.jpg",
+    "subtitle": "Site Oficial",
+    "title": "CBF"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://sportv.globo.com/site/cartola-fc/",
+    "image": "img/discover/cartolafc.jpg",
+    "subtitle": "Monte seu time e dispute com amigos",
+    "title": "Cartola FC"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.catho.com.br/",
+    "image": "img/discover/catho.jpg",
+    "subtitle": "Guia de empregos",
+    "title": "Catho"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b1",
+    "href": "https://catracalivre.com.br/brasil/",
+    "image": "img/discover/catracalivre.jpg",
+    "subtitle": "Entretenimento",
+    "title": "Catraca Livre"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://www.uefa.com/uefachampionsleague/",
+    "image": "img/discover/championsleague.jpg",
+    "subtitle": "Site Oficial",
+    "title": "Champions League"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://cinema.uol.com.br/",
+    "image": "img/discover/cinema.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "Cinema"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b1",
+    "href": "http://www.climatempo.com.br/",
+    "image": "img/discover/climatempo.jpg",
+    "subtitle": "Alertas sobre o clima",
+    "title": "Clima Tempo"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://codecombat.com/",
+    "image": "img/discover/codecombat.jpg",
+    "subtitle": "Aprenda a programar enquanto se diverte jogando",
+    "title": "Code Combat"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.codecademy.com/pt/",
+    "image": "img/discover/codeacademy.jpg",
+    "subtitle": "Aprenda a programar",
+    "title": "Codecademy"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b1",
+    "href": "http://www.combateadengue.com.br/",
+    "image": "img/discover/contra-dengue.jpg",
+    "subtitle": "Sa\u00fade",
+    "title": "Combate \u00e0 Dengue"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://coursera.r7.com/",
+    "image": "img/discover/coursera.jpg",
+    "subtitle": "Fa\u00e7a os melhores cursos online, gratuitamente",
+    "title": "Coursera"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b2h",
+    "href": "http://www.curriculum.com.br/",
+    "image": "img/discover/curriculum.jpg",
+    "subtitle": "Guia de empregos",
+    "title": "Curriculum"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://curriculo.com.br/",
+    "image": "img/discover/curriculo.jpg",
+    "subtitle": "Guia de empregos",
+    "title": "Curr\u00edculo online"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://discoverykidsbrasil.uol.com.br/",
+    "image": "img/discover/discoverykids.jpg",
+    "subtitle": "Jogos e v\u00eddeos educativos",
+    "title": "Discovery Kids"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b1",
+    "href": "http://www.disquedenuncia.org.br/",
+    "image": "img/discover/disquedenuncia.jpg",
+    "subtitle": "Seguran\u00e7a",
+    "title": "Disque Den\u00fancia"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.dominiopublico.gov.br/",
+    "image": "img/discover/dominiopublico.jpg",
+    "subtitle": "Biblioteca Digital",
+    "title": "Dom\u00ednio P\u00fablico"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "https://www.duolingo.com/",
+    "image": "img/discover/duolingo.jpg",
+    "subtitle": "Aprenda ingl\u00eas de gra\u00e7a",
+    "title": "Duolingo"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://espn.uol.com.br/",
+    "image": "img/discover/espn.jpg",
+    "subtitle": "Site do Canal",
+    "title": "ESPN"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://ego.globo.com/",
+    "image": "img/discover/ego.jpg",
+    "subtitle": "Tudo sobre celebridades",
+    "title": "Ego"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://empregocerto.uol.com.br/",
+    "image": "img/discover/empregocerto.jpg",
+    "subtitle": "Guia de empregos",
+    "title": "Emprego Certo"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2h",
+    "href": "http://extra.globo.com/",
+    "image": "img/discover/extra.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "Extra"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://globoesporte.globo.com/motor/formula-1/",
+    "image": "img/discover/f1.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "F1"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.fnde.gov.br/",
+    "image": "img/discover/fnde.jpg",
+    "subtitle": "Portal Oficial",
+    "title": "FNDE"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://www.foxsports.com.br/",
+    "image": "img/discover/foxsports.jpg",
+    "subtitle": "Site do Canal",
+    "title": "FOX Sports"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://www.facebook.com/",
+    "image": "img/discover/facebook.jpg",
+    "subtitle": "Rede Social",
+    "title": "Facebook"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://www.folha.uol.com.br/",
+    "image": "img/discover/folhadesaopaulo.jpg",
+    "subtitle": "Portal de not\u00edcias",
+    "title": "Folha de S.Paulo"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.capes.gov.br/",
+    "image": "img/discover/fundacaocapes.jpg",
+    "subtitle": "Minist\u00e9rio da Educa\u00e7\u00e3o",
+    "title": "Funda\u00e7\u00e3o Capes"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2v",
+    "href": "http://gnt.globo.com/receitas/",
+    "image": "img/discover/gnt.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "GNT"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2v",
+    "href": "http://gnt.globo.com/moda/",
+    "image": "img/discover/gntmoda.jpg",
+    "subtitle": "Desfiles, Looks e ensaios",
+    "title": "GNT MODA"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b2h",
+    "href": "http://gerandofalcoes.com/",
+    "image": "img/discover/gerandofalcoes.jpg",
+    "subtitle": "Institui\u00e7\u00e3o de transforma\u00e7\u00e3o social",
+    "title": "Gerando Falc\u00f5es"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://globoesporte.globo.com/",
+    "image": "img/discover/getv.jpg",
+    "subtitle": "reportagens em v\u00eddeo",
+    "title": "Globo Esporte"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://globotv.globo.com/globo-news/",
+    "image": "img/discover/globotvnews.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "Globo News"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2v",
+    "href": "http://www.globo.com/",
+    "image": "img/discover/globo.jpg",
+    "subtitle": "Portal de not\u00edcias",
+    "title": "Globo.com"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://mail.google.com/",
+    "image": "img/discover/gmail.jpg",
+    "subtitle": "e-mail do google",
+    "title": "Gmail"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://www.google.com/",
+    "image": "img/discover/google.jpg",
+    "subtitle": "Procure a informa\u00e7\u00e3o do mundo",
+    "title": "Google"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.googleartproject.com/pt-br/collections/",
+    "image": "img/discover/googleart.jpg",
+    "subtitle": "Exposi\u00e7\u00e3o de arte online",
+    "title": "Google Art"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://books.google.com/",
+    "image": "img/discover/googlebooks.jpg",
+    "subtitle": "Pesquisa de Livros",
+    "title": "Google Livros"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://news.google.com.br/",
+    "image": "img/discover/googlenews.jpg",
+    "subtitle": "Portal de not\u00edcias",
+    "title": "Google News"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://br.code.org/",
+    "image": "img/discover/codestudio.jpg",
+    "subtitle": "Aprender programa\u00e7\u00e3o",
+    "title": "Hora do C\u00f3digo"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://portal.inep.gov.br/",
+    "image": "img/discover/inep.jpg",
+    "subtitle": "Estudos e Pesquisas",
+    "title": "INEP"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://vagas.infojobs.com.br/",
+    "image": "img/discover/infojobs.jpg",
+    "subtitle": "Guia de Empregos",
+    "title": "Infojobs"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b1",
+    "href": "http://www.socioambiental.org/pt-br",
+    "image": "img/discover/inea.jpg",
+    "subtitle": "Meio Ambiente",
+    "title": "Instituto Socioambiental"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://pt.khanacademy.org/",
+    "image": "img/discover/khanacademy.jpg",
+    "subtitle": "V\u00eddeos educativos",
+    "title": "Khan Academy"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://kibeloco.com.br/",
+    "image": "img/discover/kibeloco.jpg",
+    "subtitle": "Blog de humor",
+    "title": "Kibe Loco"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://mecflix.mec.gov.br/",
+    "image": "img/discover/mecflix.jpg",
+    "subtitle": "Portal de videos",
+    "title": "MECFLIX"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://br.noticias.yahoo.com/moda/",
+    "image": "img/discover/modayahoo.jpg",
+    "subtitle": "Tend\u00eancias e desfiles de moda",
+    "title": "MODA Yahoo"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "https://www.google.com/culturalinstitute/project/world-wonders?hl=pt-BR",
+    "image": "img/discover/worldwonders.jpg",
+    "subtitle": "Descubra as maravilhas do mundo moderno e antigo",
+    "title": "Maravilhas do Mundo"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://www.meiahora.ig.com.br/",
+    "image": "img/discover/meiahora.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "Meia Hora"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.mercadolivre.com.br/",
+    "image": "img/discover/mercadolivre.jpg",
+    "subtitle": "Compras e vendas online",
+    "title": "Mercado Livre"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://www.nba.com/",
+    "image": "img/discover/nba.jpg",
+    "subtitle": "Site Oficial",
+    "title": "NBA"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://lnb.com.br/",
+    "image": "img/discover/nbb.jpg",
+    "subtitle": "Site Oficial",
+    "title": "NBB Basquete"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.nick.com/games/",
+    "image": "img/discover/nickgames.jpg",
+    "subtitle": "Jogos, lan\u00e7amentos, v\u00eddeos",
+    "title": "Nick Games"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b2h",
+    "href": "http://www.nossascidades.org/",
+    "image": "img/discover/nossascidades.jpg",
+    "subtitle": "Rede de engajamento e participa\u00e7\u00e3o nas cidades",
+    "title": "Nossas Cidades"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://www12.senado.gov.br/noticias/",
+    "image": "img/discover/noticiassenado.jpg",
+    "subtitle": "Senado Federal",
+    "title": "Noticias do Senado"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://br.tv.yahoo.com/novelas/",
+    "image": "img/discover/novelasyahoo.jpg",
+    "subtitle": "Tudo sobre as principais novelas",
+    "title": "Novelas Yahoo!"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2h",
+    "href": "http://odia.ig.com.br/",
+    "image": "img/discover/odia.jpg",
+    "subtitle": "Portal de not\u00edcias",
+    "title": "O Dia"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://br.omg.yahoo.com/",
+    "image": "img/discover/omgyahoo.jpg",
+    "subtitle": "Celebridades e famosos",
+    "title": "OMG Yahoo"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://objetoseducacionais2.mec.gov.br/",
+    "image": "img/discover/objetoseducacionais.jpg",
+    "subtitle": "Base Internacional",
+    "title": "Objetos educacionais"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://olhardigital.uol.com.br/",
+    "image": "img/discover/olhardigital.jpg",
+    "subtitle": "Not\u00edcias e videos de tecnologia",
+    "title": "Olhar Digital"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://omelete.uol.com.br/",
+    "image": "img/discover/omelete.jpg",
+    "subtitle": "Filmes e s\u00e9ries de TV",
+    "title": "Omelete"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2v",
+    "href": "http://www.brasil.gov.br/",
+    "image": "img/discover/noticiasdegoverno.jpg",
+    "subtitle": "Portal de Not\u00edcias do Governo",
+    "title": "Portal Brasil"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://portalsaude.saude.gov.br/",
+    "image": "img/discover/portalsaude.jpg",
+    "subtitle": "Not\u00edcias e programas do Minist\u00e9rio",
+    "title": "Portal da Sa\u00fade"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://portal.mec.gov.br/index.php",
+    "image": "img/discover/portaldomec.jpg",
+    "subtitle": "Portal oficial",
+    "title": "Portal do MEC"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://portaldoprofessor.mec.gov.br/",
+    "image": "img/discover/portaldoprofessor.jpg",
+    "subtitle": "Site oficial",
+    "title": "Portal do Professor"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b2v",
+    "href": "http://www.rj.gov.br/web/poupatemporj/",
+    "image": "img/discover/poupatempo.jpg",
+    "subtitle": "Utilidades",
+    "title": "Poupa Tempo"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2h",
+    "href": "http://www.r7.com/",
+    "image": "img/discover/r7.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "R7"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://revistaescola.abril.com.br/",
+    "image": "img/discover/revistaescola.jpg",
+    "subtitle": "Planos de aula, v\u00eddeos, jogos e mais",
+    "title": "Revista Escola"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://saude.abril.com.br/",
+    "image": "img/discover/revistasaude.jpg",
+    "subtitle": "Sa\u00fade, nutri\u00e7\u00e3o e bem-estar",
+    "title": "Revista Sa\u00fade"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://www.rio2016.org/",
+    "image": "img/discover/rio2016.jpg",
+    "subtitle": "Jogos Ol\u00edmpicos e Paral\u00edmpicos",
+    "title": "Rio 2016"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.senac.br/",
+    "image": "img/discover/senac.jpg",
+    "subtitle": "Educa\u00e7\u00e3o profissionalizante",
+    "title": "SENAC"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://compreplanosdesaudeonline.com/",
+    "image": "img/discover/planodesaudeonline.jpg",
+    "subtitle": "Planos de sa\u00fade individual e familiar",
+    "title": "Sa\u00fade Online"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.superqualidadeseguros.com.br/",
+    "image": "img/discover/seguros.jpg",
+    "subtitle": "Planos de sa\u00fade, previd\u00eancia e seguros",
+    "title": "Seguros"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://sportv.globo.com/site/",
+    "image": "img/discover/sportv.jpg",
+    "subtitle": "Site do canal campe\u00e3o",
+    "title": "Sportv"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://www.cbv.com.br/v1/superliga/",
+    "image": "img/discover/superliga.jpg",
+    "subtitle": "Site Oficial",
+    "title": "Superliga"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.ted.com/translate/languages/pt-br/",
+    "image": "img/discover/ted.jpg",
+    "subtitle": "Palestras online",
+    "title": "TED"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://www.tedxrio.com.br/",
+    "image": "img/discover/tedxrio.jpg",
+    "subtitle": "Palestras on-line",
+    "title": "TEDx Rio 2011"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.tedxrio20.com/",
+    "image": "img/discover/tedxrio20.jpg",
+    "subtitle": "Palestras on-line",
+    "title": "TEDx Rio+20 2010"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b2h",
+    "href": "http://gente.ig.com.br/tvenovela/",
+    "image": "img/discover/tvenovela.jpg",
+    "subtitle": "Programa\u00e7\u00e3o e bastidores",
+    "title": "TV & Novelas IG"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://tvbrasil.ebc.com.br/",
+    "image": "img/discover/tvbrasil.jpg",
+    "subtitle": "Portal de v\u00eddeos",
+    "title": "TV Brasil"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://tvescola.mec.gov.br/",
+    "image": "img/discover/tvescola.jpg",
+    "subtitle": "Portal de videos",
+    "title": "TV Escola"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "https://www.youtube.com/user/tvescola",
+    "image": "img/discover/tvescolayoutube.jpg",
+    "subtitle": "Canal de v\u00eddeo",
+    "title": "TV Escola no YouTube"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2v",
+    "href": "http://globoesporte.globo.com/futebol/brasileirao-serie-a/#/classificacao-e-jogos/",
+    "image": "img/discover/brasileirao.jpg",
+    "subtitle": "classifica\u00e7\u00e3o e jogos",
+    "title": "Tabela Brasileir\u00e3o"
+  },
+  {
+    "cat": "discover_local",
+    "display_shape": "b1",
+    "href": "http://www.telelistas.net",
+    "image": "img/discover/telelistas.jpg",
+    "subtitle": "Utilidades",
+    "title": "Telefones \u00dateis"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://www.terra.com.br/",
+    "image": "img/discover/terra.jpg",
+    "subtitle": "Portal de Not\u00edcias",
+    "title": "Terra"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://twitter.com/",
+    "image": "img/discover/twitter.jpg",
+    "subtitle": "Rede Social",
+    "title": "Twitter"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "http://uol.com.br",
+    "image": "img/discover/uol.jpg",
+    "subtitle": "Universo Online",
+    "title": "UOL"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b1",
+    "href": "http://esporte.uol.com.br/tenis",
+    "image": "img/discover/uoltenis.jpg",
+    "subtitle": "Not\u00edcias de T\u00eanis",
+    "title": "UOL Esporte T\u00eanis"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://jogos.uol.com.br/",
+    "image": "img/discover/uoljogos.jpg",
+    "subtitle": "Tudo sobre jogos",
+    "title": "UOL Jogos"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://mulher.uol.com.br/",
+    "image": "img/discover/uol_mulher.jpg",
+    "subtitle": "Universo Feminino",
+    "title": "UOL Mulher"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://www.veduca.com.br/",
+    "image": "img/discover/verduca.jpg",
+    "subtitle": "As melhores universidades do mundo",
+    "title": "Veduca"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2h",
+    "href": "http://vestibular.brasilescola.com/",
+    "image": "img/discover/brasilescola.jpg",
+    "subtitle": "Apoio do ensino fundamental ao vestibular",
+    "title": "Vestibular Brasil Escola"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2v",
+    "href": "http://vivarocinha.org/portal/",
+    "image": "img/discover/vivarocinha.jpg",
+    "subtitle": "Comunidade Online",
+    "title": "Viva Rocinha"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b2h",
+    "href": "http://www.vozdascomunidades.com.br/",
+    "image": "img/discover/vozdascomunidades.jpg",
+    "subtitle": "Comunidade Online",
+    "title": "Voz das Comunidades"
+  },
+  {
+    "cat": "discover_sports",
+    "display_shape": "b2h",
+    "href": "http://2015.cbv.com.br/",
+    "image": "img/discover/volei.jpg",
+    "subtitle": "Confedera\u00e7\u00e3o Brasileira de Voleibol",
+    "title": "V\u00f4lei"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "https://web.whatsapp.com/",
+    "image": "img/discover/whatsapp.jpg",
+    "subtitle": "Converse com seus amigos",
+    "title": "WhatsApp"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://pt.wiktionary.org/",
+    "image": "img/discover/wiktionary.jpg",
+    "subtitle": "O dicion\u00e1rio livre",
+    "title": "Wikcion\u00e1rio"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b1",
+    "href": "http://pt.wikipedia.org/",
+    "image": "img/discover/wikipedia.jpg",
+    "subtitle": "A enciclop\u00e9dia livre",
+    "title": "Wikip\u00e9dia"
+  },
+  {
+    "cat": "discover_news",
+    "display_shape": "b1",
+    "href": "https://br.noticias.yahoo.com/",
+    "image": "img/discover/yahoo.jpg",
+    "subtitle": "Not\u00edcias do Brasil",
+    "title": "Yahoo! Not\u00edcias"
+  },
+  {
+    "cat": "discover_entertainment",
+    "display_shape": "b1",
+    "href": "http://www.youtube.com/",
+    "image": "img/discover/youtube.jpg",
+    "subtitle": "Compartilhe e assista a v\u00eddeos",
+    "title": "YouTube"
+  },
+  {
+    "cat": "discover_edu_and_health",
+    "display_shape": "b2v",
+    "href": "http://www.zap.com.br/empregos/",
+    "image": "img/discover/zapempregos.jpg",
+    "subtitle": "Guia de empregos",
+    "title": "Zap Empregos"
+  }
+]
