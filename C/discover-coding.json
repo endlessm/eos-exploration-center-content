@@ -136,6 +136,14 @@
     "title": "Facebook"
   },
   {
+    "cat": "discover_coding",
+    "display_shape": "b2h",
+    "href": "https://playcanvas.com/",
+    "image": "https://raw.githubusercontent.com/endlessm/eos-exploration-center-content/master/img/rectangle.jpg",
+    "subtitle": "Beautiful interactive experiences for every platform",
+    "title": "PlayCanvas"
+  },
+  {
     "cat": "discover_edu_and_health",
     "display_shape": "b2h",
     "href": "http://familydoctor.org/",
