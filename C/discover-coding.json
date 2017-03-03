@@ -43,7 +43,7 @@
     "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://hourofcode.com/",
-    "image": "https://raw.githubusercontent.com/endlessm/eos-exploration-center-content/master/img/rectangle.jpg",
+    "image": "https://exploration-center.coding.endlessdeployment.com/img/rectangle.jpg",
     "subtitle": "An Hour of Code for every student",
     "title": "Hour of code"
   },
@@ -107,7 +107,7 @@
     "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://www.freecodecamp.com/",
-    "image": "https://raw.githubusercontent.com/endlessm/eos-exploration-center-content/master/img/rectangle.jpg",
+    "image": "https://exploration-center.coding.endlessdeployment.com/img/rectangle.jpg",
     "subtitle": "Learn to code and help nonprofits",
     "title": "Free Code Camp"
   },
@@ -115,7 +115,7 @@
     "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://www.codeschool.com/",
-    "image": "https://raw.githubusercontent.com/endlessm/eos-exploration-center-content/master/img/rectangle.jpg",
+    "image": "https://exploration-center.coding.endlessdeployment.com/img/rectangle.jpg",
     "subtitle": "Learn by Doing",
     "title": "Code School"
   },
@@ -139,7 +139,7 @@
     "cat": "discover_coding",
     "display_shape": "b2h",
     "href": "https://playcanvas.com/",
-    "image": "https://raw.githubusercontent.com/endlessm/eos-exploration-center-content/master/img/rectangle.jpg",
+    "image": "https://exploration-center.coding.endlessdeployment.com/img/rectangle.jpg",
     "subtitle": "Beautiful interactive experiences for every platform",
     "title": "PlayCanvas"
   },
