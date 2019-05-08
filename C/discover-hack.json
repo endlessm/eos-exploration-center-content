@@ -1,0 +1,1530 @@
+[
+	{
+		"cat": "coding",
+		"display_shape": "b2h",
+		"href": "https://scratch.mit.edu/",
+		"title": "Scratch",
+		"subtitle": "Code with blocks and share with other kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Scratch.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2v",
+		"href": "https://processing.org/",
+		"title": "Processing",
+		"subtitle": "Learn and explore creative coding",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Processing.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2h",
+		"href": "https://www.arduino.cc/",
+		"title": "Arduino",
+		"subtitle": "Make hardware projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Arduino.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://www.codemoji.com/courses/",
+		"title": "Codemoji",
+		"subtitle": "Learn html, css, and javascript",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding01.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://threejs.org/",
+		"title": "Three.js",
+		"subtitle": "Javascript library for creative 3D graphics",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding02.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "http://1000.chromeexperiments.com/",
+		"title": "Chrome Experiments",
+		"subtitle": "A collection of creative javascript experiments",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding03.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2h",
+		"href": "https://www.madewithcode.com/",
+		"title": "Google Made With Code",
+		"subtitle": "Fun coding projects and stories",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Google_Made_With_Code.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "www.openprocessing.org",
+		"title": "Open Processing",
+		"subtitle": "Community for sharing Processing sketches",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding05.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://natureofcode.com/book/introduction/",
+		"title": "Nature of Code",
+		"subtitle": "Book of Processing lessons by Dan Schiffman",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding06.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2h",
+		"href": "https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw",
+		"title": "Coding Train",
+		"subtitle": "Awesome videos by Dan Schiffman for learning code",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Coding_Train.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2h",
+		"href": "www.glitch.com",
+		"title": "Glitch",
+		"subtitle": "Community for sharing code projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Glitch.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2v",
+		"href": "https://www.tynker.com/",
+		"title": "Tynker",
+		"subtitle": "Learn to code with mini games",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Tynker.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://unity3d.com/learn/tutorials",
+		"title": "Unity Tutorials",
+		"subtitle": "Lots of tutorials to learn Unity",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding08.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://codecombat.com/",
+		"title": "Code Combat",
+		"subtitle": "A game that teaches code",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding09.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://www.shadertoy.com/",
+		"title": "ShaderToy",
+		"subtitle": "Build and share shaders and get inspired",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding10.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://www.w3schools.com/",
+		"title": "w3schools",
+		"subtitle": "Tutorials and reference for web development",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding11.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://github.com/explore",
+		"title": "Github",
+		"subtitle": "Explore and collaborate on code projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding12.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://www.defold.com/",
+		"title": "Defold",
+		"subtitle": "Full featured 2D game engine",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding13.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://playcanvas.com/",
+		"title": "Playcanvas",
+		"subtitle": "Powerful HTML5 3D game engine",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding14.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "http://sydneypadua.com/2dgoggles/lovelace-the-origin-2/",
+		"title": "Lovelace & Babbage",
+		"subtitle": "Comic about Ada Lovelace, the first programmer",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding15.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b2h",
+		"href": "https://www.codeacademy.com",
+		"title": "Codecademy",
+		"subtitle": "Online courses for a variety of coding languages",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Coding_Academy.png"
+	},
+	{
+		"cat": "coding",
+		"display_shape": "b1",
+		"href": "https://gamestarmechanic.com/",
+		"title": "Gamestar",
+		"subtitle": "Learn to make games",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Coding17.png"
+	},
+	{
+		"cat": "made_by_kids",
+		"display_shape": "b1",
+		"href": "https://scratch.mit.edu/",
+		"title": "Scratch",
+		"subtitle": "Code with blocks and share with other kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_6.png"
+	},
+	{
+		"cat": "made_by_kids",
+		"display_shape": "b2h",
+		"href": "https://diy.org/",
+		"title": "DIY.org",
+		"subtitle": "Fun DIY projects and videos for and by kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/DIY.png"
+	},
+	{
+		"cat": "made_by_kids",
+		"display_shape": "b1",
+		"href": "https://www.omgeverywhere.org/videos",
+		"title": "OMG Everywhere",
+		"subtitle": "Teaching filmmaking to the next generation",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_6.png"
+	},
+	{
+		"cat": "made_by_kids",
+		"display_shape": "b1",
+		"href": "https://www.rookiemag.com/theme/ ",
+		"title": "Rookie Mag Archive",
+		"subtitle": "Magazine of stories and art by kids and teens",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_1.png"
+	},
+	{
+		"cat": "made_by_kids",
+		"display_shape": "b1",
+		"href": "https://storybird.com/",
+		"title": "Storybird",
+		"subtitle": "Create and share stories and comics",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_4.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://docs.google.com/",
+		"title": "Google Docs",
+		"subtitle": "Collaborative text editor",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_0.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2v",
+		"href": "https://processing.org/",
+		"title": "Processing",
+		"subtitle": "Learn and explore creative coding",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Processing.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2h",
+		"href": "https://www.arduino.cc/",
+		"title": "Arduino",
+		"subtitle": "Make hardware projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Arduino.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.tinkercad.com/",
+		"title": "Tinkercad",
+		"subtitle": "Easy to learn 3D modeling tool",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_7.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2h",
+		"href": "https://www.blender.org",
+		"title": "Blender",
+		"subtitle": "Powerful 3D modeling and animation",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Blender.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.pixilart.com/",
+		"title": "Pixilart",
+		"subtitle": "Make pixel art",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_7.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://vectr.com/",
+		"title": "Vectr",
+		"subtitle": "Make vector graphics",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_1.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.vecteezy.com/editor",
+		"title": "Vecteezy",
+		"subtitle": "Simple vector editor",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_7.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2h",
+		"href": "https://www.designer.io/",
+		"title": "Gravit Designer",
+		"subtitle": "Powerful vector graphics tool",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Gravit_Designer.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2h",
+		"href": "https://flat.io/",
+		"title": "Flat.io",
+		"subtitle": "Collaborative sheet music editor",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Flatio.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2v",
+		"href": "https://www.soundtrap.com/",
+		"title": "Soundtrap",
+		"subtitle": "Online music studio",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Soundtrap.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "http://sampulator.com/",
+		"title": "Sampulator",
+		"subtitle": "Fun musical keyboard",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_0.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://autochords.com/",
+		"title": "Autochords",
+		"subtitle": "Simple musical chord maker",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_4.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.song-lyrics-generator.org.uk/",
+		"title": "Song Lyrics Generator",
+		"subtitle": "Write your own song lyrics",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_1.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "http://twinery.org/",
+		"title": "Twine",
+		"subtitle": "Simple tool for non-linear stories",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_2.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.inklestudios.com/inklewriter/",
+		"title": "Inklewriter",
+		"subtitle": "Tool for writing interactive stories",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_5.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "http://superpowers-html5.com/index.en.html ",
+		"title": "Superpowers",
+		"subtitle": "Open source 2D & 3D game maker",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_7.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.defold.com/",
+		"title": "Defold",
+		"subtitle": "Full featured 2D game engine",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_2.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://playcanvas.com/",
+		"title": "Playcanvas",
+		"subtitle": "Powerful HTML5 3D game engine",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_7.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b2v",
+		"href": "https://www.figma.com/",
+		"title": "Figma",
+		"subtitle": "Design tool for making UI",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Figma.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://www.canva.com/",
+		"title": "Canva",
+		"subtitle": "Customize templates for invitations and more",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_4.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://github.com/explore",
+		"title": "Github",
+		"subtitle": "Explore and collaborate on code projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_3.png"
+	},
+	{
+		"cat": "tools",
+		"display_shape": "b1",
+		"href": "https://about.gitlab.com/",
+		"title": "Gitlab",
+		"subtitle": "Open source version control tool",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_7.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://artsandculture.google.com/",
+		"title": "Google Arts and Culture",
+		"subtitle": "Explore collections from around the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_5.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.google.com/doodles",
+		"title": "Google Doodles",
+		"subtitle": "Archive of changes made to the Google logo",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_1.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.instructables.com/",
+		"title": "Instructables",
+		"subtitle": "Learn to make anything",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_0.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.skillshare.com",
+		"title": "Skillshare",
+		"subtitle": "Classes for a wide range of creative skills",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_5.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.autodraw.com/",
+		"title": "Autodraw",
+		"subtitle": "Drawing tool with machine learning",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_4.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "http://flipanim.com/",
+		"title": "FlipAnim",
+		"subtitle": "Make and share simple flip animations",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_7.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://opengameart.org/",
+		"title": "Open Game Art",
+		"subtitle": "Open source game assets",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_4.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://2dgameartguru.com/category-selection-inkscape/",
+		"title": "2D Game Art Guru",
+		"subtitle": "Inkscape drawing tutorials",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_2.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq_xOG",
+		"title": "Learn Krita with Bob Ross",
+		"subtitle": "Learn to make a happily little picture with the help of Bob Ross",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_2.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.behance.net/",
+		"title": "Behance",
+		"subtitle": "Browse inspiring professional art and design work",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_3.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.artstation.com/",
+		"title": "Artstation",
+		"subtitle": "Showcase of professional digital artists",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_0.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.thingiverse.com/",
+		"title": "Thingiverse",
+		"subtitle": "Download free 3D models",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_0.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b2h",
+		"href": "https://poly.google.com/",
+		"title": "Google Poly",
+		"subtitle": "Explore the world of 3D",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Google_Poly.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://sketchfab.com/models/staffpicks",
+		"title": "Sketchfab",
+		"subtitle": "Explore 3D art and designs",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_5.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b2h",
+		"href": "https://diy.org/",
+		"title": "DIY.org",
+		"subtitle": "Fun DIY projects and videos for and by kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/DIY.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "http://www.kollabora.com/",
+		"title": "Kollabora",
+		"subtitle": "DIY sewing projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_3.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.theydrawandtravel.com/",
+		"title": "They Draw and Travel",
+		"subtitle": "Illustrated maps",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_0.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.webtoons.com/en/",
+		"title": "Line Webtoons",
+		"subtitle": "Web comics platform",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_1.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b2h",
+		"href": "https://www.allrecipes.com/",
+		"title": "All Recipes",
+		"subtitle": "Food-focused social network",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/All_Recipes.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.ehow.com/",
+		"title": "eHow",
+		"subtitle": "Crafts and cooking projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_6.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "https://www.supercook.com/",
+		"title": "Supercook",
+		"subtitle": "Instantly find recipes based on ingredients",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_3.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b1",
+		"href": "http://sampulator.com/",
+		"title": "Sampulator",
+		"subtitle": "Fun musical keyboard",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_0.png"
+	},
+	{
+		"cat": "creativity",
+		"display_shape": "b2h",
+		"href": "https://musiclab.chromeexperiments.com/Experiments",
+		"title": "Chrome Musiclab",
+		"subtitle": "Interactive musical toys",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Chrome_Music_Lab.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/Vihart",
+		"title": "Vi Hart",
+		"subtitle": "Fun projects with math, doodles, and music",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_1.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b2h",
+		"href": "https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw",
+		"title": "Coding Train",
+		"subtitle": "Awesome videos by Dan Schiffman for learning code",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Coding_Train.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://ed.ted.com/lessons?content_type=animations&direction=desc&sort=publish-date&user_by_click=student",
+		"title": "TedEd",
+		"subtitle": "Animated videos about a variety of subjects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_6.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://vimeo.com/channels/kidproof",
+		"title": "Vimeo Animation",
+		"subtitle": "Creative animated shorts from around the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_5.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b2v",
+		"href": "https://www.thedodo.com/",
+		"title": "The Dodo",
+		"subtitle": "Animal videos",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/The_Dodo.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b2h",
+		"href": "https://pbskids.org/video/",
+		"title": "PBS Kids",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/PBS_Kids.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/pbsdigitalstudios",
+		"title": "PBS Digital Studios",
+		"subtitle": "Ask questions about the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_3.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b2h",
+		"href": "https://www.youtube.com/user/scishow",
+		"title": "SciShow",
+		"subtitle": "Contagious curiosity about everything",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/SciShow.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/numberphile",
+		"title": "Numberphile",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_7.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/acapellascience",
+		"title": "Acapella Science",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_3.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/minutephysics",
+		"title": "Minute Physics",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_4.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/crashcourse",
+		"title": "Crash Course",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_4.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/playlist?list=PLaGRTLvEbVzybijtYZRy4EoGrx6Bq_xOG",
+		"title": "Learn Krita with Bob Ross",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_0.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/playlist?list=PL-bOh8btec4CXd2ya1NmSKpi92U_l6ZJd ",
+		"title": "12 Principles of Animation",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_1.png"
+	},
+	{
+		"cat": "videos",
+		"display_shape": "b2h",
+		"href": "https://www.youtube.com/user/goldieblox",
+		"title": "GoldieBlox",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/GoldieBlox.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b2h",
+		"href": "https://pbskids.org/",
+		"title": "PBS Kids",
+		"subtitle": "Curriculum based entertainment",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/PBS_Kids.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.minecraft.net",
+		"title": "Minecraft",
+		"subtitle": "A game about placing blocks and going on adventures",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_4.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.highlightskids.com/",
+		"title": "Highlights Kids",
+		"subtitle": "content and experiences that engage, delight, and foster joyful learning",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_1.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b2h",
+		"href": "https://www.abcya.com/",
+		"title": "ABCYa",
+		"subtitle": "Educational games for kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Abcya.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.funbrain.com/",
+		"title": "Fun Brain",
+		"subtitle": "hundreds of educational games, books, comics, and videos",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_6.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.scholastic.com/kids/games",
+		"title": "Scholastic Homebase",
+		"subtitle": "destination for characters, games, stories, and your fellow fans",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Scholastic_Homebase.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://method.ac/",
+		"title": "Method of Action",
+		"subtitle": "Games to learn design",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_0.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b2v",
+		"href": "https://www.tynker.com/",
+		"title": "Tynker",
+		"subtitle": "Learn to code with mini games",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Tynker.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.mathwarehouse.com/",
+		"title": "Math Warehouse",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_2.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.transum.org/Software/Puzzles/",
+		"title": "Transum",
+		"subtitle": "Math puzzles",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_7.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.mathgames.com/",
+		"title": "Math Games",
+		"subtitle": "Free math games and skill practice",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_6.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://fold.it",
+		"title": "Foldit",
+		"subtitle": "Protein Folding Game",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_7.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "http://maplestory.nexon.net",
+		"title": "Maplestory",
+		"subtitle": "Side-scrolling fantasy adventure",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_1.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b2h",
+		"href": "https://musiclab.chromeexperiments.com/Experiments",
+		"title": "Musiclab",
+		"subtitle": "Interactive musical toys",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Chrome_Music_Lab.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.autodraw.com/",
+		"title": "Autodraw",
+		"subtitle": "Drawing tool with machine learning",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_7.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b2h",
+		"href": "https://scratch.mit.edu/",
+		"title": "Scratch",
+		"subtitle": "Code with blocks and share with other kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Scratch.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.google.com/doodles",
+		"title": "Google Doodles",
+		"subtitle": "Archive of every Google Doodle ever",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_7.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.webtoons.com/en/",
+		"title": "Line Webtoons",
+		"subtitle": "Web comics platform",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_4.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "http://sampulator.com/",
+		"title": "Sampulator",
+		"subtitle": "Fun musical keyboard",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_2.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b2h",
+		"href": "https://musiclab.chromeexperiments.com/Experiments",
+		"title": "Chrome Musiclab",
+		"subtitle": "Interactive musical toys",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Chrome_Music_Lab.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "http://flipanim.com/",
+		"title": "FlipAnim",
+		"subtitle": "Make and share simple flip animations",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_2.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://www.folj.com/",
+		"title": "Lateral Thinking & Logic Puzzles",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_3.png"
+	},
+	{
+		"cat": "fun_and_games",
+		"display_shape": "b1",
+		"href": "https://xkcd.com/",
+		"title": "XKCD",
+		"subtitle": "A webcomic of romance, sarcasm, math, and language",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_0.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://quizlet.com/",
+		"title": "Quizlet",
+		"subtitle": "Study sets and flashcards",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_3.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.studystack.com/",
+		"title": "Stucy Stack",
+		"subtitle": "Flashcards shared by teachers and students",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_3.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b2v",
+		"href": "http://www.sparknotes.com/",
+		"title": "SparkNotes",
+		"subtitle": "Study guides for Shakespeare and more",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Sparknotes.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.cliffsnotes.com/literature",
+		"title": "CliffsNotes",
+		"subtitle": "Study guides written by real teachers and professors",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_4.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b2h",
+		"href": "https://www.khanacademy.org/",
+		"title": "Khan Academy",
+		"subtitle": "Free, world-class education for anyone, anywhere",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Khan_Academy.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://outschool.com/",
+		"title": "Outschool",
+		"subtitle": "Live online classes by independent teachers",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Outschool.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.thoughtco.com/",
+		"title": "Thoughtco",
+		"subtitle": "Reference site with expert-created education content",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_3.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.ck12.org/student/",
+		"title": "CK12",
+		"subtitle": "100% Free, Personalized Learning for Every Student",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_1.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b2h",
+		"href": "https://www.prodigygame.com/",
+		"title": "Prodigy",
+		"subtitle": "The most engaging math platform in the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Prodigy.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.mathway.com",
+		"title": "Mathway",
+		"subtitle": "On-demand math assistance",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_1.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "http://patrickjmt.com/",
+		"title": "Patrick JMT",
+		"subtitle": "Math tutorials",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_2.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.poets.org/poetsorg/poems-kids",
+		"title": "Poems For Kids",
+		"subtitle": "Selections of poems curated around specific themes",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_5.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://quizlet.com/",
+		"title": "Quizlet",
+		"subtitle": "Study sets and flashcards",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_3.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.studystack.com/",
+		"title": "Stucy Stack",
+		"subtitle": "Flashcards shared by teachers and students",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_3.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b2v",
+		"href": "http://www.sparknotes.com/",
+		"title": "SparkNotes",
+		"subtitle": "Study guides for Shakespeare and more",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Sparknotes.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.cliffsnotes.com/literature",
+		"title": "CliffsNotes",
+		"subtitle": "Study guides written by real teachers and professors",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_4.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b2h",
+		"href": "https://www.khanacademy.org/",
+		"title": "Khan Academy",
+		"subtitle": "Free, world-class education for anyone, anywhere",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Khan_Academy.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://outschool.com/",
+		"title": "Outschool",
+		"subtitle": "Live online classes by independent teachers",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Outschool.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.thoughtco.com/",
+		"title": "Thoughtco",
+		"subtitle": "Reference site with expert-created education content",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_3.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.ck12.org/student/",
+		"title": "CK12",
+		"subtitle": "100% Free, Personalized Learning for Every Student",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_1.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b2h",
+		"href": "https://www.prodigygame.com/",
+		"title": "Prodigy",
+		"subtitle": "The most engaging math platform in the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Prodigy.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.mathway.com",
+		"title": "Mathway",
+		"subtitle": "On-demand math assistance",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_1.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "http://patrickjmt.com/",
+		"title": "Patrick JMT",
+		"subtitle": "Math tutorials",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_2.png"
+	},
+	{
+		"cat": "school_subjects",
+		"display_shape": "b1",
+		"href": "https://www.poets.org/poetsorg/poems-kids",
+		"title": "Poems For Kids",
+		"subtitle": "Selections of poems curated around specific themes",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_5.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b2h",
+		"href": "https://www.nasa.gov/",
+		"title": "NASA",
+		"subtitle": "We reach for new heights and reveal the unknown for the benefit of humankind",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/NASA.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://www.noaa.gov/satellites",
+		"title": "NOAA",
+		"subtitle": "An agency that enriches life through science",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_7.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b2h",
+		"href": "https://www.quantamagazine.org/",
+		"title": "Quanta Magazine",
+		"subtitle": "Exciting stories about math and science",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Quanta_Magazine.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b2h",
+		"href": "https://www.google.com/earth/",
+		"title": "Google Earth",
+		"subtitle": "The world's most detailed globe",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Google_Earth.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "http://demonstrations.wolfram.com/",
+		"title": "Wolfram Demonstrations",
+		"subtitle": "Computational sketches from scientists and researchers",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_0.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://alpha.iodide.io/",
+		"title": "Mozilla Iodide",
+		"subtitle": "Interactive scientific notebooks",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_5.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b2h",
+		"href": "https://www.prodigygame.com/",
+		"title": "Prodigy",
+		"subtitle": "The most engaging math platform in the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Prodigy.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://www.mathway.com",
+		"title": "Mathway",
+		"subtitle": "On-demand math assistance",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_5.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "http://patrickjmt.com/",
+		"title": "Patrick JMT",
+		"subtitle": "Math tutorials",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_3.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://www.mathwarehouse.com/",
+		"title": "Math Warehouse",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_0.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://www.transum.org/Software/Puzzles/",
+		"title": "Transum",
+		"subtitle": "Math puzzles",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_1.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b2h",
+		"href": "https://www.mathgames.com/",
+		"title": "Math Games",
+		"subtitle": "Free math games and skill practice",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Math_Games.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://fold.it",
+		"title": "Foldit",
+		"subtitle": "Protein Folding Game",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_1.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://sciencebob.com/category/experiments/",
+		"title": "Science Bob",
+		"subtitle": "Instructions and videos for interactive science experiments",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_4.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://ptable.com/",
+		"title": "Periodic Table",
+		"subtitle": "An interactive and dynamic periodic table",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_7.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b2h",
+		"href": "https://www.youtube.com/user/scishow",
+		"title": "SciShow",
+		"subtitle": "Contagious curiosity about everything",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/SciShow.png"
+	},
+	{
+		"cat": "math_and_science",
+		"display_shape": "b1",
+		"href": "https://www.youtube.com/user/minutephysics",
+		"title": "Minute Physics",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_6.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2h",
+		"href": "https://www.atlasobscura.com/",
+		"title": "Atlas Obscura",
+		"subtitle": "The definitive guide to the world's hidden wonders",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Atlas_Obscura.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://newsela.com/articles/#/rule/latest",
+		"title": "Newsela",
+		"subtitle": "News stories in school-friendly format",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_2.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2h",
+		"href": "https://www.nasa.gov/",
+		"title": "NASA",
+		"subtitle": "Explore the unknown for the benefit of humankind",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/NASA.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://www.noaa.gov/satellites",
+		"title": "NOAA",
+		"subtitle": "An agency that enriches life through science",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_4.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2h",
+		"href": "https://www.quantamagazine.org/",
+		"title": "Quanta Magazine",
+		"subtitle": "Exciting stories about math and science",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Quanta_Magazine.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://a-z-animals.com/",
+		"title": "A-Z Animals",
+		"subtitle": "Online animal encyclopedia",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_3.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2v",
+		"href": "https://www.thedodo.com/",
+		"title": "The Dodo",
+		"subtitle": "All things animals",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/The_Dodo.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://www.timeforkids.com/",
+		"title": "Time For Kids",
+		"subtitle": "Authentic journalism to motivate curious minds",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_4.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2h",
+		"href": "https://ed.ted.com/lessons?content_type=animations&direction=desc&sort=publish-date&user_by_click=student",
+		"title": "TedEd",
+		"subtitle": "Animated videos about a variety of subjects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/TedEd.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2v",
+		"href": "https://www.nationalgeographic.com/",
+		"title": "National Geographic",
+		"subtitle": "Pushing the boundaries of exploration",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/National_Geographic.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b2h",
+		"href": "https://www.google.com/earth/",
+		"title": "Google Earth",
+		"subtitle": "The world's most detailed globe",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Google_Earth.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://www.loc.gov/",
+		"title": "Library of Congress",
+		"subtitle": "The largest library in the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_7.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://www.theydrawandtravel.com/",
+		"title": "They Draw and Travel",
+		"subtitle": "Illustrated maps",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_3.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://artsandculture.google.com/",
+		"title": "Google Arts and Culture",
+		"subtitle": "Explore collections from around the world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_7.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://www.goodnewsnetwork.org/",
+		"title": "Good News Network",
+		"subtitle": "21,000 positive news stories from around the globe",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_7.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://themomentmag.com/",
+		"title": "The Moment",
+		"subtitle": "",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_6.png"
+	},
+	{
+		"cat": "news_and_the_world",
+		"display_shape": "b1",
+		"href": "https://www.1843magazine.com/",
+		"title": "1843 Magazine",
+		"subtitle": "Stories of an extraordinary world",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Orange_7.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.kickstarter.com/",
+		"title": "Kickstarter",
+		"subtitle": "Global community built around creativity and creative projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_3.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://vimeo.com/watch",
+		"title": "Vimeo",
+		"subtitle": "Community of filmmakers and creative video content",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_3.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.webtoons.com/en/",
+		"title": "Line Webtoons",
+		"subtitle": "Web comics platform",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_1.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://experiment.com/",
+		"title": "Experiment",
+		"subtitle": "An online platform for discovering, funding, and sharing scientific research",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_3.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.behance.net/",
+		"title": "Behance",
+		"subtitle": "Browse inspiring professional art and design work",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_3.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.artstation.com/",
+		"title": "Artstation",
+		"subtitle": "Showcase of professional digital artists",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Slate_3.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.thingiverse.com/",
+		"title": "Thingiverse",
+		"subtitle": "Download free 3D models",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_4.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b2h",
+		"href": "https://poly.google.com/",
+		"title": "Google Poly",
+		"subtitle": "Explore the world of 3D",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Google_Poly.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://sketchfab.com/models/staffpicks",
+		"title": "Sketchfab",
+		"subtitle": "Explore 3D art and designs",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_3.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "http://www.kollabora.com/",
+		"title": "Kollabora",
+		"subtitle": "DIY sewing projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_2.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.instructables.com/",
+		"title": "Instructables",
+		"subtitle": "Learn to make anything",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_HotPink_1.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.shadertoy.com/",
+		"title": "ShaderToy",
+		"subtitle": "Build and share shaders and get inspired",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Fuschia_6.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://www.hackster.io/",
+		"title": "Hackster",
+		"subtitle": "Community for hardware makers",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_5.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b2h",
+		"href": "https://scratch.mit.edu/",
+		"title": "Scratch",
+		"subtitle": "Code with blocks and share with other kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Scratch.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "www.openprocessing.org",
+		"title": "Open Processing",
+		"subtitle": "Community for sharing Processing sketches",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Chartreuse_6.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b2h",
+		"href": "www.glitch.com",
+		"title": "Glitch",
+		"subtitle": "Community for sharing code projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/Glitch.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://github.com/explore",
+		"title": "Github",
+		"subtitle": "Explore and collaborate on code projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Green_1.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://soundcloud.com/",
+		"title": "Soundcloud",
+		"subtitle": "The world’s largest music and audio platform",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Purple_6.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://musescore.com/",
+		"title": "Musescore",
+		"subtitle": "Free and open source music notation software",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_0.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "www.ravelry.com",
+		"title": "Ravelry",
+		"subtitle": "Knitting and crochet projects",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_7.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b1",
+		"href": "https://storybird.com/",
+		"title": "Storybird",
+		"subtitle": "Make and share visual stories",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/DC_Tiles_Blue_6.png"
+	},
+	{
+		"cat": "communities",
+		"display_shape": "b2h",
+		"href": "https://diy.org/",
+		"title": "DIY.org",
+		"subtitle": "Fun DIY projects and videos for and by kids",
+		"image": "https://exploration-center.coding.endlessdeployment.com/img/Custom_Tiles/DIY.png"
+	}
+]
